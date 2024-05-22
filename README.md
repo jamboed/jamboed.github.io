@@ -1,3 +1,3 @@
-# Jamboed
+# jamboed
 
 ## Computer Shenanigans
